@@ -1,1 +1,30 @@
-
+visual encodings
+protovis
+stream graphs
+small multiples
+horizon graphs
+data density
+exploratory data analysis
+brushing-and-linking
+parallel coordinates
+||-coord
+flow map
+chloropleth map
+graduated symbol map
+dorling cartogram
+micro-observations
+macro-observations
+node-link diagram
+Reingold-Tilford
+dendrogram
+indented trees
+adjacency diagrams
+sunburst layout
+enclosure diagrams
+squarified treemaps
+Voronoi and jigsaw treemaps
+circle-packing layouts
+force-directed layouts
+arc diagram
+seriation
+bioinformatics
